@@ -20,8 +20,8 @@ export default function MapShow({route}) {
             />
             <Marker
                 coordinate={{latitude: route.params.b3.latitude, longitude:route.params.b3.longitude}}  
-                title="m2"
-                description="m2"
+                title="m3"
+                description="m3"
             />
             </MapView>
         </View>
